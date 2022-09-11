@@ -1,0 +1,11 @@
+{
+  "packages": [
+    {
+      "name": "retroarch",
+      "title": "retroarch",
+      "author": "test",
+      "description": "emulators in one app",
+      "version": "1.0.0"
+    }
+  ]
+}
