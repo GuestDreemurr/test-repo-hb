@@ -6,6 +6,12 @@
       "author": "test",
       "description": "emulators in one app",
       "version": "1.0.0"
+      
+      "name": "helloworld",
+      "title": "hello world",
+      "author": "GuestDreemurr",
+      "description": "wut example",
+      "version": "1.0.0"
     }
   ]
 }
