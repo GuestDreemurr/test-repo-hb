@@ -1,0 +1,11 @@
+{
+  "title": "Hello World",
+  "author": "Devkitpro",
+  "category": "games",
+  "version": "1.6",
+  "url": "https://github.com/GuestDreemurr/helloworld-wiiu/releases/tag/wiiu-homebrew/",
+  "license": "",
+  "description": "wut example for a homebrew app",
+  "details": this is a wut thing example testing for gamestore
+  "changelog": ""
+}
